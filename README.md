@@ -2,7 +2,7 @@
 
 ==== About ====
 
-The application was created to improve the process of selecting a menu for university students
+The application was created to improve the process of selecting a menu for university students.
 
 NOTE!! The app only works for the students of UoWM in Kastoria.
 
