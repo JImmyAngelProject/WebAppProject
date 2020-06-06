@@ -23,17 +23,17 @@ Step 2: Go to projects option and from the Development tools tag select spring t
 
 Step 3: From the tag Spring Tools 4 for Eclipse (this project was made by eclipse so choose this one) select Winodws 64-bit. A window will pop-up to you with the options Save File and Cancel, choose the first one.
 
-==== Installation ====
+==== <b>Installation</b>====
 
 Step 1: After the download is complete extract the jar file located in downloads folder on your desktop or the folder that you have specified for the file to be saved.
 
 Step 2:Open the extracted folder and open the Configuration Settings file  SpringToolSuite4  with notepad or any other text editor that you might have.
 
 Step 3: Under the openfile add the following:<br>
--vm
+-vm<br>
 C:\Program Files\(the name of the folder that you have your jdk installed)\(the version of your jdk)\bin\javaw.exe                        (
 
-(e.g. -vm
+(e.g. -vm<br>
 C:\Program Files\Java\jdk-14.0.1\bin\javaw.exe)
 
 Step 4: Save the file, close the text file and open SpringToolSuite4 App....And that's it!!
