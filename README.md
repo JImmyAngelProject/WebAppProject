@@ -31,8 +31,9 @@ Step 2:Open the extracted folder and open the Configuration Settings file  Sprin
 
 Step 3: Under the openfile add the following:
 -vm
-C:\Program Files\(the name of the folder that you have your jdk installed)\(the version of your jdk)\bin\javaw.exe  (e.g. -vm
+C:\Program Files\(the name of the folder that you have your jdk installed)\(the version of your jdk)\bin\javaw.exe                        (
 
+(e.g. -vm
 C:\Program Files\Java\jdk-14.0.1\bin\javaw.exe)
 
 Step 4: Save the file, close the text file and open SpringToolSuite4 App....And that's it!!
