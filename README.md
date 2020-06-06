@@ -31,7 +31,7 @@ Step 2:Open the extracted folder and open the Configuration Settings file  Sprin
 
 Step 3: Under the openfile add the following:<br>
 -vm<br>
-C:\Program Files\(the name of the folder that you have your jdk installed)\(the version of your jdk)\bin\javaw.exe                        (
+C:\Program Files\(the name of the folder that you have your jdk installed)\(the version of your jdk)\bin\javaw.exe
 
 (e.g. -vm<br>
 C:\Program Files\Java\jdk-14.0.1\bin\javaw.exe)
