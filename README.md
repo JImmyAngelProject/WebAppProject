@@ -29,7 +29,7 @@ Step 1: After the download is complete extract the jar file located in downloads
 
 Step 2:Open the extracted folder and open the Configuration Settings file  SpringToolSuite4  with notepad or any other text editor that you might have.
 
-Step 3: Under the openfile add the following:
+Step 3: Under the openfile add the following:<br>
 -vm
 C:\Program Files\(the name of the folder that you have your jdk installed)\(the version of your jdk)\bin\javaw.exe                        (
 
